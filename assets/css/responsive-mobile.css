@@ -1,6 +1,19 @@
-@media only screen and (max-width: 500px)  {
-  body {
-    display: none;
+@media only screen and (max-width: 650px) {
+  .title {
+    font-size: 2.5rem;
   }
-}
+  .timer{
+    width: 15rem;
+    height: 15rem;
+    font-size: 3rem; 
+  }
+  .group-btn {
+    width: 15rem;
+  }
+  .btn {
+  width: 3rem;
+  height: 3rem;
+  background-size: 2.5rem;
+  }
 
+  }
